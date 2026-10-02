@@ -114,3 +114,25 @@ h1, h2, h3, p {
 footer {
     padding-bottom: 5%;
 }
+
+.experience {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 90%;
+  gap: 1.5rem;
+}
+table {
+  
+}
+
+tr {
+    border-bottom: 1px solid #dddddd;
+    padding: 10%;
+}
+
+td {
+    padding: 5%;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
