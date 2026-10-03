@@ -22,15 +22,20 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
-
+- At least one image, with descriptive alt attribute(s)
+- Appropriate headings and paragraph text
+- Links to external page(s)
+- Multiple pages, with appropriate navigation between them
+- Semantic HTML tags like aside or footer
 
 (b) CSS features
-
-
+- Modifying padding and margins to indent content and enhance readability
+- Modifying link, text color, or other colors to be visually appealing, perhaps with one of the pallette creators in the resources tab
+- Adding custom font(s) from Google fonts to add more personality (make sure to include appropriate fallbacks)
 
 (c) Advanced features
-
+- Creating a table with multiple columns and rows which can be read via a screen reader
+- Creating a more complex page layout, such as including a sidebar or navigation bar
 
 
 
@@ -48,7 +53,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+N/A, did not consult other classmates or individuals
 
 
 7. Is there anything special we need to know in order to run your code?
