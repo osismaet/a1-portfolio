@@ -28,6 +28,10 @@ h1, h2, h3, p {
   margin: 0;
 }
 
+p {
+    font-size: 1.0rem;
+}
+
 #hero-img {
   max-width: 40%;
   height: auto;
@@ -113,13 +117,15 @@ h1, h2, h3, p {
 
 footer {
     padding-bottom: 5%;
+    font-size: 0.8rem;
+    color: gray;
 }
 
 .experience {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 90%;
+  width: 100%;
   gap: 1.5rem;
 }
 
@@ -155,3 +161,6 @@ td {
     margin-top: 5%;
 }
 
+#card-text {
+    text-align: center;
+}
