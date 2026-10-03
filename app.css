@@ -122,9 +122,6 @@ footer {
   width: 90%;
   gap: 1.5rem;
 }
-table {
-  
-}
 
 tr {
     border-bottom: 1px solid #dddddd;
@@ -136,3 +133,24 @@ td {
     text-align: left;
     border-bottom: 1px solid #eee;
 }
+
+#about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#headshot {
+  max-width: 30%;
+  height: auto;
+  border-radius: 5%;
+}
+
+#olivia-info {
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
