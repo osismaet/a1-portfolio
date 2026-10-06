@@ -37,18 +37,16 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - Creating a table with multiple columns and rows which can be read via a screen reader
 - Creating a more complex page layout, such as including a sidebar or navigation bar
 
-
-
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
 
 
 4. How long, in hours, did it take you to complete this assignment?
-
+about 10 hours in total
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-- https://www.geeksforgeeks.org/html/simple-portfolio-website-design-using-html/ --> for basic portfolio/html code
+- https://www.geeksforgeeks.org/html/simple-portfolio-website-design-using-html/ --> for basic portfolio/html code example
 
 
 
@@ -57,4 +55,4 @@ N/A, did not consult other classmates or individuals
 
 
 7. Is there anything special we need to know in order to run your code?
-
+No

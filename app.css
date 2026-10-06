@@ -72,6 +72,11 @@ p {
   text-decoration: underline;
 }
 
+.nav-links a:active {
+  text-decoration: underline;
+  color: grey;
+}
+
 .phone-img {
   max-width: 15%;
   height: auto;
