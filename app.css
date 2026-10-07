@@ -12,6 +12,7 @@ h1 {
   font-family: Garamond, Georgia, serif;
   font-size: 2.5rem;
   font-weight: 700; 
+  text-align: center; 
 }
 
 h2 {
@@ -44,6 +45,10 @@ p {
   align-items: center;
   gap: 10px;
   padding: 20px;
+}
+
+.hero p {
+  text-align: center;
 }
 
 .projects { 
@@ -168,4 +173,23 @@ td {
 
 #card-text {
     text-align: center;
+}
+
+@media (max-width: 767px) {
+  .project-card {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .project-card img {
+    max-width: 50%;
+    height: auto;
+  }
+  
+  #hero-img {
+  max-width: 80%;
+  height: auto;
+}
+
 }
