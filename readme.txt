@@ -38,8 +38,32 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - Creating a more complex page layout, such as including a sidebar or navigation bar
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-No, I did not ignore any warnings.
-
+** some warnings overlap for both pages so I used the same explanations for both
+index.html
+- I ignored the warnings related to the images, it said my alt text was either not accurate or not needed. I believe that my alt text was sufficient and used whenever the image was not decorative.
+- Another image warning was that the content within the image might not be accessible, but this was for screenshots of screens for my projects, and I didn't want to alter the image since that would not be representing the project accurately.
+- I ignored warnings about text direction because there are never any changes in text direction, the whole doc is in right-to-left
+- There were a couple of warnings related to my navbar that were not relevant, as it is properly formatted as a list and the text does not make any relative references. In addition it is wrapped in the <nav> tag, so I don't think it needs to be explicitly marked
+- One warning was a skip to content link, which is not needed for this website
+- One warning was that the title of the doc doesn't describe the document, which I think it does
+- Some warnings were about the text of my links might not be helpful, but I feel like they are sufficient, as "home" and "about" are pretty standard link names
+- I did not make a sitemap, as this was not mentioned as a requirement and was not taught
+- I got multiple warnings that h1, h2s, h3s were used only for formatting, but I did use them properly to denote a heading hierarchy
+- I got one warning about phrases not in the document's primary language, but I did not use any language other than english
+- One warning said that "Repeated components may not appear in the same relative order each time they appear." But I have confirmed that they do appear in the same order.
+- One warning said "Long quotations may not be marked using the blockquote element." but the blockquote element is not necessary as this was flagged for the navbar
+about.html
+- I ignored the warnings related to the image, as it is just a headshot of me and does not need a longer description
+- Again, I ignored the warnings about text direction, since the text direction does not change at allowed
+- I got one warning that my table might need table headers and I understand that the table headers help to understand the table content, but I feel like since the table is under "experience" section that it is intuitive enough to understand the table content without it
+- Another warning was that "Layout table may not linearize.", but I believe it makes sense reading it
+- I got multiple warnings that h1, h2s, h3s were used only for formatting, but I did use them properly to denote a heading hierarchy
+- I got one warning about phrases not in the document's primary language, but I did not use any language other than english
+- One warning said that "Repeated components may not appear in the same relative order each time they appear." But I have confirmed that they do appear in the same order.
+- One warning said "Long quotations may not be marked using the blockquote element." but the blockquote element is not necessary as this was flagged for the navbar
+- I did not make a sitemap, as this was not mentioned as a requirement and was not taught
+- One warning was that the title of the doc doesn't describe the document, which I think it does
+- One warning was a skip to content link, which is not needed for this website
 
 4. How long, in hours, did it take you to complete this assignment?
 about 10 hours in total
